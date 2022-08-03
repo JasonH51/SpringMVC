@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+    margin: auto;
+    text-align: center;
+}
+
+.jumbotron {
+    width: 50%;
+    max-width: 50%;
+    background-color: lightblue;
+    margin: auto;
+}
+
+.form {
+    margin: auto;
+    text-align: center;
+}
